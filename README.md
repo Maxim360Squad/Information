@@ -1,5 +1,12 @@
 # Information
-My Project:
+
+# My Username
+- My real username is "MotoPath", but since this name in github already uses some kind of anonymus, I have to use the prefix "G" at the end.
+
+# My Youtube Channel`s:
+- Moto Path
+
+# My Project:
 
 | NAME | LINK | STATUS |
 |----------------|:---------:|----------------:|
